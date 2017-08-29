@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wall{
+	
+	background:url("wall.jpg");
+	height:768;
+	width:1024;
+
+}

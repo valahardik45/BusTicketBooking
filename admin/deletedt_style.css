@@ -1,0 +1,47 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+	}
+
+form{
+	width:720px;
+	margin: 0px auto;
+	padding: 5px;
+	text-align:center;
+	border:1px solid #B0C4ED;
+	background:#999933;
+	border-radius: 0px 0px 10px 10px;
+	opacity:0.9;
+}
+
+.header{
+	height:auto;
+	width:710px;
+	margin:10px auto 0px;
+	color: white;
+	background:#666;	
+	text-align: center;
+	text-shadow:2px 2px 5px black;
+	border: 1px solid #666;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding:10px;
+	opacity:0.9;
+}
+
+.btn
+{
+	height:25spx;
+	width:90px;
+	padding:5px;
+	margin-bottom:5px;
+	text-align:center;
+	font-size:85%;
+	font-weight:500;
+	color: white;
+	background:#5F9EA0;
+	border:none;
+	border-radius: 5px;
+}	
+	

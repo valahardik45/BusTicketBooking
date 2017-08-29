@@ -1,0 +1,68 @@
+/* CSS Document */
+/*.ac{
+	height:300px;
+	width:400px;
+	padding-top:80px;
+	padding-left:80px;
+	opacity:0.7;
+	margin-left:250px;
+	margin-top:50px;
+	border:1px solid #B0C4ED;
+	background:white;
+	border-radius: 10px 10px 10px 10px;
+	}
+*/
+form{
+	margin:80px auto;
+	width:320px;
+	color:steelblue;
+	}
+.input-group{
+	margin-left:35px;
+}
+.input-group label
+{
+	display: block;
+	text-align:left;
+	margin: 2px;
+}
+.input-group input
+{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}	
+
+bus{
+	height:150px; 
+	width:50px;
+}
+	
+.select{
+	height:30px;
+	width:150px;
+	margin-left:35px;
+	font-size:16px;
+	margin-bottom:5px;
+	margin-right:50px;
+	
+	
+}
+.btn
+{
+	height:35px;
+	width:105px;
+	padding:9px;
+	margin-bottom:5px;
+	text-align:center;
+	font-size:100%;
+	font-weight:500;
+	color: white;
+	background:#5F9EA0;
+	border:none;
+	border-radius: 5px;
+	}
+

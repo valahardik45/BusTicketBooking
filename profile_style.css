@@ -1,0 +1,62 @@
+/* CSS Document */
+*{
+ margin:0px;
+ padding:0px;
+}
+
+.header{
+	height:20px;
+	width:450px;
+	margin:40px auto 0px;
+	color: white;
+	background:#666;	
+	text-align: center;
+	text-shadow:2px 2px 5px black;
+	border: 1px solid #666;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding:20px;
+	opacity:0.9;
+}
+
+.pro{
+	width: 450px;
+	margin: 0px auto;
+	padding: 20px;
+	border:1px solid #B0C4ED;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+	opacity:0.9;
+	}
+/* login buton*/	
+.button {
+    background-color:#CC0033;
+    border: none;
+    color: white;
+    padding:6px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color:#660000;
+}
+
+.btn{
+	height:4%;
+	width:30%;
+	padding: 8px;
+	text-align:center;
+	font-size: 80%;
+	color: white;
+	background: #5F9EA0;
+	border:none;
+	border-radius: 5px;
+	margin-top:25px;
+	}
+
+
+		
+ 

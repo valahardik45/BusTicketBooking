@@ -1,0 +1,42 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+
+
+form{
+	width:400px;
+	margin: 50px auto 0px;
+	padding: 50px;
+	border:1px solid #B0C4ED;
+	background: white;
+	border-radius: 10px 10px 10px 10px;
+	margin: 70px auto;
+
+}
+.btn
+{
+	width:200px;
+	height:50px;
+	background-color:#09F;
+	border-radius:5px;
+	font-size:18px;
+	font-family:Verdana, Geneva, sans-serif;
+	margin-bottom:5px;
+	
+	
+}
+.lbtn{
+	height:4%;
+	width:40%;
+	padding: 8px;
+	text-align:center;
+	font-size: 80%;
+	color: white;
+	background: #5F9EA0;
+	border:none;
+	border-radius: 5px;
+
+
+}
